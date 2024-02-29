@@ -1,1 +1,2 @@
-this is my second txt file in visual studio code
+this is my second txt file in visual studio code.
+this is a new line

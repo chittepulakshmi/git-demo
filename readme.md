@@ -1,2 +1,2 @@
 this is my first project 
-author: lakshmi
+author: lakshmi#demo project from cmd prompt
